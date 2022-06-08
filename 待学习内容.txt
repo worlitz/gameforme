@@ -1,3 +1,13 @@
 
 3.matte painting 遮罩绘画
 
+物体逻辑、光学、色彩、空气透视
+Pixel Art Diffusion
+
+知乎 关卡流程
+
+2d的关卡怎么设计大的视图
+
+重新拆解马里奥奥德赛 料理国
+
+整理文件：笔试的，留学的，传到resourcetransit
