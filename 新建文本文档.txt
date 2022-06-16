@@ -1,5 +1,4 @@
-1.知乎 腾讯关卡策划 文档 cc文档
 2.youtube whitebox video
-3.文史：航天
 4.公文
 5.虚幻 sequencer
+6.分镜学习
