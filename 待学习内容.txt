@@ -23,6 +23,8 @@ up主 3位 秃头 、小米、66
 微信开放世界概论
 
 游戏场景规划原速过程+讲解 https://www.bilibili.com/video/BV1uK4y1u7bj?p=3&vd_source=42fd18cd452e0e4e27f559d8ed84f22e
+
+b站搜索关卡策划
  
 周五整理gameforme、sssstudy文件结构，周末回顾学习内容
 
@@ -35,3 +37,5 @@ up主 3位 秃头 、小米、66
 阿隼的画；橡豆 绘画
 
 猫叔叔叔叔叔叔叔 框架相关
+
+学习blender？3dmax
