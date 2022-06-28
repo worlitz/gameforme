@@ -4,8 +4,6 @@ a.地表怎么用：虚拟地表、逻辑地表、地表分层等；（场景阴
 
 虚幻 sequencer 模型变化 ：虚幻引擎官方、unity官方
 
-分镜学习
-
 worldcreator
 
 https://twitter.com/rilemtwit 一款像素游戏制作框架
@@ -14,21 +12,15 @@ https://twitter.com/rilemtwit 一款像素游戏制作框架
 
 看西北偏北 悬疑大师希区柯克的作品
 
-up主 3位 秃头 、小米、66
-
-整理下思路《以眼说话 影像视觉原理及应用》，怎么设计故事、场景
-
-微信开放世界概论
+整理下思路，怎么设计故事、场景
 
 游戏场景规划原速过程+讲解 https://www.bilibili.com/video/BV1uK4y1u7bj?p=3&vd_source=42fd18cd452e0e4e27f559d8ed84f22e
 
 b站搜索关卡策划
- 
-周五整理gameforme、sssstudy文件结构，周末回顾学习内容
 
 游戏哲学研究中心 游戏心理学
  
-温暖cyan 大师镜头
+温暖cyan 大师镜头 分镜学习
 
 龙RexSaron 游戏制作工具箱
 
@@ -38,11 +30,16 @@ b站搜索关卡策划
 
 学习blender？3dmax
 
-把角色设定表、世界设定表模板整理出来
-
 理一套世界设计表
 
 3D的任务动画演出上
 看2D和3D的游戏的动画演出，思考制作难度
 城市俯视图
 换一本建筑学的书看
+
+up主探花花匠
+
+thinking problem using different language
+get to know applications that other countries used
+
+先学习多线路游戏关卡设计实战，在学习箱庭游戏关卡设计实战
