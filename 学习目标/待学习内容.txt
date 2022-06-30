@@ -16,9 +16,7 @@ https://twitter.com/rilemtwit 一款像素游戏制作框架
 
 游戏场景规划原速过程+讲解 https://www.bilibili.com/video/BV1uK4y1u7bj?p=3&vd_source=42fd18cd452e0e4e27f559d8ed84f22e
 
-b站搜索关卡策划
-
-游戏哲学研究中心 游戏心理学
+1.游戏哲学研究中心 游戏心理学，偶尔看看就好，没多大参考意义。
  
 温暖cyan 大师镜头 分镜学习
 
@@ -30,8 +28,6 @@ b站搜索关卡策划
 
 学习blender？3dmax
 
-理一套世界设计表
-
 3D的任务动画演出上
 看2D和3D的游戏的动画演出，思考制作难度
 城市俯视图
@@ -42,4 +38,4 @@ up主探花花匠
 thinking problem using different language
 get to know applications that other countries used
 
-先学习多线路游戏关卡设计实战，在学习箱庭游戏关卡设计实战
+先学习多线路游戏关卡设计实战，在学习箱庭游戏关卡设计实战(POI图)
