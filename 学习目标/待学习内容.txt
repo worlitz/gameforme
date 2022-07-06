@@ -47,3 +47,5 @@ get to know applications that other countries used
 记得及时整理网友问题.docx
 
 制作任务流模板
+
+熟悉下bsp、ue5新的笔刷工具的使用
