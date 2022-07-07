@@ -47,10 +47,20 @@ get to know applications that other countries used
 
 自己做一版 inkspace to blender，关卡
 
-看这个视频：万字解析：今天的游戏技术究竟发展到了什么程度？
-https://www.bilibili.com/video/BV1HB4y1W7pC?share_source=copy_web&vd_source=42fd18cd452e0e4e27f559d8ed84f22e
-
 学习育碧的3C规划
 
 看这个视频 3D Modeling in Unreal Engine - Create a Donut in UE4 Tutorial
 甜甜圈教程
+
+人脸捕捉 facs
+maya facs
+
+刚体，粒子（布料、爆炸、流动）
+
+https://www.bilibili.com/video/BV1HB4y1W7pC?share_source=copy_web&vd_source=42fd18cd452e0e4e27f559d8ed84f22e
+美国末日2 绳子的实现
+
+写写代码算算东西
+复刻一些论文
+
+模仿制作su案例
