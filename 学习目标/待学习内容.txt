@@ -5,7 +5,7 @@ a.地表怎么用：虚拟地表、逻辑地表、地表分层等；（场景阴
 
 虚幻 sequencer 模型变化 ：虚幻引擎官方、unity官方
 
-worldcreator
+worldcreator、world machine hudine
 
 https://twitter.com/rilemtwit 一款像素游戏制作框架
 
@@ -29,19 +29,15 @@ https://twitter.com/rilemtwit 一款像素游戏制作框架
 
 学习blender？3dmax
 
-3D的任务动画演出上
-看2D和3D的游戏的动画演出，思考制作难度
 城市俯视图
 换一本建筑学的书看
-
-up主探花花匠
 
 thinking problem using different language
 get to know applications that other countries used
 
 先学习多线路游戏关卡设计实战，在学习箱庭游戏关卡设计实战(POI图)
 
-虚幻的三种动画：一般、混合空间、mixamo
+虚幻的三种动画：一般、混合空间
 
 脉脉app 黄梓健 关卡制作示例拜读
 
@@ -68,3 +64,4 @@ https://www.bilibili.com/video/BV1HB4y1W7pC?share_source=copy_web&vd_source=42fd
 海边城堡
 
 沉没之城、黑色洛城
+
