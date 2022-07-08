@@ -39,15 +39,6 @@ get to know applications that other countries used
 
 虚幻的三种动画：一般、混合空间
 
-脉脉app 黄梓健 关卡制作示例拜读
-
-记得及时整理网友问题.docx
-
-自己做一版 inkspace to blender，关卡
-
-看这个视频 3D Modeling in Unreal Engine - Create a Donut in UE4 Tutorial
-甜甜圈教程
-
 人脸捕捉 facs
 maya facs
 

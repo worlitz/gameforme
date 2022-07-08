@@ -1,7 +1,16 @@
 1.按照su的参考图（本仓库内）模仿制作。
 
-2.学习目标视频 world-machine 转 blender，模仿制作一套
+2.学习目标视频 inkspce-machine 转 blender，模仿制作一套
 
-3.甜甜圈教程
+3..看这个视频 3D Modeling in Unreal Engine - Create a Donut in UE4 Tutorial
+甜甜圈教程
 
 4.找海边城堡的素材
+
+5，记得及时整理网友问题.docx
+
+6.脉脉app 黄梓健 关卡制作示例拜读
+
+7.BSP工具
+
+8.如何锁定镜头视角不跟随鼠标移动
