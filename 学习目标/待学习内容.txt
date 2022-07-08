@@ -21,6 +21,8 @@ https://twitter.com/rilemtwit 一款像素游戏制作框架
 
 龙RexSaron 游戏制作工具箱
 
+黑色洛城玩法汇总
+
 阿隼的画；橡豆 绘画
 
 猫叔叔叔叔叔叔叔 框架相关
@@ -47,8 +49,6 @@ get to know applications that other countries used
 
 自己做一版 inkspace to blender，关卡
 
-学习育碧的3C规划
-
 看这个视频 3D Modeling in Unreal Engine - Create a Donut in UE4 Tutorial
 甜甜圈教程
 
@@ -64,3 +64,7 @@ https://www.bilibili.com/video/BV1HB4y1W7pC?share_source=copy_web&vd_source=42fd
 复刻一些论文
 
 模仿制作su案例
+
+海边城堡
+
+沉没之城、黑色洛城
