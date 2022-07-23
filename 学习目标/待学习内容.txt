@@ -37,8 +37,6 @@ get to know applications that other countries used
 
 先学习多线路游戏关卡设计实战，在学习箱庭游戏关卡设计实战(POI图)
 
-虚幻的三种动画：一般、混合空间
-
 人脸捕捉 facs
 maya facs
 
@@ -46,9 +44,6 @@ maya facs
 
 https://www.bilibili.com/video/BV1HB4y1W7pC?share_source=copy_web&vd_source=42fd18cd452e0e4e27f559d8ed84f22e
 美国末日2 绳子的实现
-
-写写代码算算东西
-复刻一些论文
 
 模仿制作su案例
 
